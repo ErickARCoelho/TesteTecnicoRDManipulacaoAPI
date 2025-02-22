@@ -1,0 +1,19 @@
+# Ignorar arquivos temporários, binários e caches do Visual Studio
+
+# Arquivos específicos do usuário
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Diretórios de compilação
+[Bb]in/
+[Oo]bj/
+
+# Diretório de cache e configurações do Visual Studio
+.vs/
+
+# Outros arquivos temporários e de log
+*.log
+*.tlog
+*.lastcodeanalysissucceeded
